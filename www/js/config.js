@@ -1,6 +1,6 @@
 
 var krms_config ={		
-	'ApiUrl':"http://bastisapp.com/kmrs/mobileapp/api",				
+	'ApiUrl':"http://www.patraer.com/mobileapp/api",				
 	'DialogDefaultTitle':"Delivery de Cerveza",	
 	'pushNotificationSenderid':"409670212325",	
 	'facebookAppId':"101091337135047", 
